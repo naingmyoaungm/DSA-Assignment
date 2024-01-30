@@ -21,3 +21,8 @@
 
 ## Assignment 5
 - add user point function
+
+## Assignment 6
+- user data store in file
+- transaction record
+- admin feature 
